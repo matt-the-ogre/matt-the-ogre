@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is my personal GitHub account.
+
+I work for Microsoft. I live in Canada. I volunteer with Lime Connect, Backcountry Discovery Routes, and sometimes do mentoring.
+
 <!--
 **matt-the-ogre/matt-the-ogre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
