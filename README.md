@@ -2,7 +2,7 @@
 
 This is my personal GitHub account.
 
-I work for Microsoft. I live in Canada. I volunteer with Lime Connect, Backcountry Discovery Routes, and sometimes do mentoring.
+I work for Microsoft. I live in Canada. I volunteer with Lime Connect as a member of the board for Canada, Backcountry Discovery Routes as an ambassador, the University of Waterloo on the Alumni Council, and sometimes do mentoring and coaching.
 
 <!--
 **matt-the-ogre/matt-the-ogre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
